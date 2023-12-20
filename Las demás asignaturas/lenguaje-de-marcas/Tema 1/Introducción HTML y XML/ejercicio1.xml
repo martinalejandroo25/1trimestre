@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<!DOCTYPE agenda >
+
+<agenda>
+ <contacto nombre= "Benito" apellido= "Camela" direccion= "Calle rosa melano al gozo 7" numero= "693534269"/>
+ <contacto nombre= "Alberto" apellido= "Chikote" direccion= "avenida pesadilla y cocina 6" numeroMovil= "619483759" telefonoFijo= "insertar fijo" numeroDeTrabajo= "insertar"/> 
+
+ 
+</agenda>

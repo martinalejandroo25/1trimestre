@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+
+<!DOCTYPE Receta>  
+<receta>
+         <ingrediente nombre= "Cebollas"                                cantidad="1"               medida= "kilogramo" />
+         <ingrediente nombre="caldo de carne"                           cantidad="2"               medida= "Litros" />
+         <ingrediente nombre="mantequilla"                              cantidad="100"             medida= "gramos" />
+         <ingrediente nombre="harina"                                   cantidad="1"               medida= "cucharada" />
+         <ingrediente nombre="queso emmental suizo o gruyére rallado"   cantidad="100"             medida= "gramos" />
+         <ingrediente nombre="pan tostado"                              cantidad="al gusto"        corte= "rebanadas"  />
+         <ingrediente nombre="Tomillo"                                  cantidad="al gusto"  />
+         <ingrediente nombre="Pimienta"                                 cantidad="al gusto" />
+
+    <proceso>
+
+        <p>Pelar y partir las cebollas en rodajas finas.</p>
+        <p>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta queestén transparentes sin dorarse.</p>
+        <p>Añadir la harina sin dejar de remover.</p>
+        <p>Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</p>
+        <p>Dejar cocer a fuego lento durante unos 15 minutos.</p>
+        <p>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</p>
+
+    </proceso>
+</receta>

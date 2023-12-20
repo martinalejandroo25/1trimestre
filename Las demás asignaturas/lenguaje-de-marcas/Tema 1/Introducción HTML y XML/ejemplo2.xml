@@ -1,0 +1,11 @@
+<?xml version= "1.0" encoding="iso-8859-1"?>
+    <!DOCTYPE libro>
+<libro>
+    <titulo> xml practico</titulo>
+    <autor>Desarrollo de aplicaciones web</autor>
+    <autor>La clase 1DAW</autor>
+    <editorial>IES Jaroso</editorial>
+    <isbn>12345678</isbn>
+    <edicion>1</edicion>
+    <páginas>450</páginas>
+</libro>
